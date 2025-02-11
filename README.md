@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Matias Espiña</h1>
 <h3 align="center">A passionate tech/devops analyst from Argentina.</h3>
 
-- 🔭 I’m currently working at [CTL Information Technology](https://ctl.tech/)
+- 👨‍💻 I’m currently working at [CTL Information Technology](https://ctl.tech/)
 
 - 🌱 I’m currently studying at [EducaciónIT - DevOps Engineer](https://www.educacionit.com/bootcamp-devops-engineer)
 
-- 📫 How to reach me **https://www.linkedin.com/in/mespia/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
